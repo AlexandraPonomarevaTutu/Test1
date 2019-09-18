@@ -3,7 +3,7 @@
     "version":"0.0.1",
     "description": "test",
     "type": "project",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload":{
         "psr-4" : {
